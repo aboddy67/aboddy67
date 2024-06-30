@@ -1,8 +1,15 @@
-# Hi 👋 this is the start of my journey in coding...
-
-### Me🦖: 
+# Hi 👋 just started the coding life...
+.   
+.   
+. 
+## Me🦖: 
+#### Academic
 - Pursuing Bachelors in Computer Science at King Abdulaziz University 📗💚
-  
+
+#### About
+- Musician on the Oud
+- Cameras and Drones 
+- Gaming is a side hustle   
 
 ---
 
