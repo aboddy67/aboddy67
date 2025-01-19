@@ -22,10 +22,10 @@
 - ⏳ Being skilled in Python
 
 
-### Languages to add: 
-- 🔮 C++
-- 🔮 C
-- 🔮 Rust
-- 🔮 SQL
-- 🔮 Swift
-- 🔮 Ruby
+##### Languages to add: 
+##### - 🔮 C++
+##### - 🔮 C
+##### - 🔮 Rust
+##### - 🔮 SQL
+##### - 🔮 Swift
+##### - 🔮 Ruby
