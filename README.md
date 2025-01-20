@@ -7,8 +7,8 @@
 
 #### Hobbies 🎸
 - **Musician**: Skilled in playing the Oud  
-- **Tech Enthusiast**: Love Cameras and Drones  
-- **Gamer**: Gaming is my side hustle 🎮  
+- **Tech Guru**: Love Cameras, Drones, Keyboards and anything tech related  
+- **gamy**: Gaming is my side hustle 🎮  
 
 ---
 
